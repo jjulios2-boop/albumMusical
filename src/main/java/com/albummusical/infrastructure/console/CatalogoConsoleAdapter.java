@@ -1,6 +1,6 @@
 /**
  *
- * @author jjulios2-boop
+ * 
  */
 package com.albummusical.infrastructure.console;
 
